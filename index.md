@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Hyundai IONIQ Electric
 
-You can use the [editor on GitHub](https://github.com/pschoffer/carshare/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+How cool is it, that you decided to share electric car via [snappcar](https://www.snappcar.se/hyra-bil/bil/hyundai-ioniq-electric/f11b78ca-48e8-4b32-96bf-efb04dc63633) ?! :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Car info
 
-### Markdown
+Fully electric great car. Meaning it is great fun to drive and you can save a lot on energy costs. The back seats are fully foldable to create a nice platform to move furniture. The car does NOT have a hitch for a trailer though.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It has relativelly small baterry of 28kwh, but it is one of the most efficient electric cars. So it can still do close to 200km if the conditions are good (no rain, no heating, not over 110 kmh).
 
-```markdown
-Syntax highlighted code block
+There are some more [stats](https://evcompare.io/cars/hyundai/hyundai-ioniq-electric-28-kwh/) you can check if you are interested.
 
-# Header 1
-## Header 2
-### Header 3
+### Charging
 
-- Bulleted
-- List
+In most cases I will try to borrow the car with close to full batery. If you would return the car bellow 70% of charge please let me know in advance. In general anything above 40-50% is fine as I can easily charge it at home or close by, but I stil like to know so I can plan.
 
-1. Numbered
-2. List
+To charge the car you have 3 options:
 
-**Bold** and _Italic_ and `Code` text
+#### Regular power outlet
 
-[Link](url) and ![Image](src)
-```
+The most convenient option if you have the car for multiple days and have access to outdoors outlet. The cable is in the trunk. It takes quite a lot of time though (6-10 hours) so it is only really a viable option overnight or as an emergency.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 404 information not found!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pschoffer/carshare/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Did I miss something? Please let me know so I can update this page.
