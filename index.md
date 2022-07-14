@@ -13,7 +13,7 @@ It has relativelly small baterry of 28kwh, but it is one of the most efficient e
 
 There are some more [stats](https://evcompare.io/cars/hyundai/hyundai-ioniq-electric-28-kwh/) you can check if you are interested.
 
-### Charging
+### Charging - Types
 
 In most cases I will try to borrow the car with close to full batery. If you would return the car bellow 70% of charge please let me know in advance. In general anything above 40-50% is fine as I can easily charge it at home or close by, but I stil like to know so I can plan.
 
