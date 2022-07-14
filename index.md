@@ -2,6 +2,9 @@
 
 How cool is it, that you decided to share electric car via [snappcar](https://www.snappcar.se/hyra-bil/bil/hyundai-ioniq-electric/f11b78ca-48e8-4b32-96bf-efb04dc63633) ?! :)
 
+![Hyundai IONIQ](images/car.png)
+
+
 ### Car info
 
 Fully electric great car. Meaning it is great fun to drive and you can save a lot on energy costs. The back seats are fully foldable to create a nice platform to move furniture. The car does NOT have a hitch for a trailer though.
@@ -32,13 +35,15 @@ This is a shopping-mall option:) It is too slow to use during a longer trip, but
 
 The cable for this is in trunk bellow the cover. It is the yellow cable.
 
+![Hyundai IONIQ](images/type2.jpg)
 
 #### Regular power outlet
 
-The most convenient option if you have the car for multiple days and have access to outdoors outlet. The cable is in the trunk. It is blue one inside a box. 
+The most convenient option if you have the car for multiple days and have access to outdoors outlet. The cable is in the trunk. It is blue one inside a box.
 
 It takes quite a lot of time though (6-10 hours) so it is only really a viable option overnight or as an emergency.
 
+![Hyundai IONIQ](images/v3.jpg)
 
 ### 404 information not found!
 
