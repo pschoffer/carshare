@@ -61,7 +61,7 @@ Alternative to an app is an RFID chip, that you can most of the time order from 
 - [A Better Route Planner](https://abetterrouteplanner.com/) - an app to plan longer trips
 - [E.on drive](https://play.google.com/store/apps/details?id=se.eon) - This is the network I use the most. There is a discount if you have electricity with E.on and you enter that when setting up account
 - [Mer](https://no.mer.eco/) - Also pretty good/cheap network that is all over.
-- [Shell Recharge](https://play.google.com/store/apps/details?id=com.thenewmotion.thenewmotion) - This is one of the more successful attempt of unifying charging networks. One app works on many networks, but it can be slightly more expensive than using the network directly.
+- [Shell Recharge](https://play.google.com/store/apps/details?id=com.thenewmotion.thenewmotion) - This is one of the more successful attempts of unifying charging networks. One app works on many networks, but it can be slightly more expensive than using the network directly.
 
 
 ### 404 information not found!
