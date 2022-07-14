@@ -29,6 +29,9 @@ The most common type of fast chargers are 50kwh ones. The faster ones will get t
 
 _Note: Tesla chargers have the right connector (CCS) and they are currently running a pilot where many (not all though) of them are usable to non-tesla too via their app_
 
+
+![Hyundai IONIQ](images/ccs.jpg)
+
 #### Type 2
 
 This is a shopping-mall option:) It is too slow to use during a longer trip, but many shopping malls or towns have public free charging of this type. The charger boxes are usually quite small. It takes few hours to charge the car this way.
@@ -44,6 +47,22 @@ The most convenient option if you have the car for multiple days and have access
 It takes quite a lot of time though (6-10 hours) so it is only really a viable option overnight or as an emergency.
 
 ![Hyundai IONIQ](images/v3.jpg)
+
+### Charging - Apps
+
+In general charging stations don't have a way to pay on the spot. You are suppose to use an app connected to that network, create an account with your card and then use it through the app. There are several networks of chargers and each has different app. It is kinda mess...
+
+Alternative to an app is an RFID chip, that you can most of the time order from each network (sometimes free, sometimes for a fee). I leave mine RFID chips in the glovebox. They are connected to my card, but in case of emergancy when the app would not be able to connect to the station or there is no signal, you can use those.
+
+![Hyundai IONIQ](images/rfid.jpg)
+
+
+- [PlugSurf](https://www.plugshare.com/) - This is the app that lists all the possible places to charge. It has smart filters. You can put in the make of the car and only avaiable chargers will show up. This is what I use to plan my trips. Chrgers are community sourced and reviewed so the review will help you estimate if there is any risk of the charger not working.
+- [A Better Route Planner](https://abetterrouteplanner.com/) - an app to plan longer trips
+- [E.on drive](https://play.google.com/store/apps/details?id=se.eon) - This is the network I use the most. There is a discount if you have electricity with E.on and you enter that when setting up account
+- [Mer](https://no.mer.eco/) - Also pretty good/cheap network that is all over.
+- [Shell Recharge](https://play.google.com/store/apps/details?id=com.thenewmotion.thenewmotion) - This is one of the more successful attempt of unifying charging networks. One app works on many networks, but it can be slightly more expensive than using the network directly.
+
 
 ### 404 information not found!
 
