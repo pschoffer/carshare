@@ -1,6 +1,6 @@
 ## Hyundai IONIQ Electric
 
-How cool is it, that you decided to share electric car via [snappcar](https://www.snappcar.se/hyra-bil/bil/hyundai-ioniq-electric/f11b78ca-48e8-4b32-96bf-efb04dc63633) ?! :)
+How cool is it, that you decided to share electric car via [GoMore](https://gomore.se/hyrbil/520843) ?! :)
 
 ![Hyundai IONIQ](images/car.jpg)
 
@@ -9,9 +9,9 @@ How cool is it, that you decided to share electric car via [snappcar](https://ww
 
 Fully electric great car. Meaning it is great fun to drive and you can save a lot on energy costs. The back seats are fully foldable to create a nice platform to move furniture. The car does NOT have a hitch for a trailer though.
 
-It has relativelly small baterry of 28kwh, but it is one of the most efficient electric cars. So it can still do close to 200km if the conditions are good (no rain, no heating, not over 110 kmh).
+It has quite big baterry of 64kwh also it is quite efficient electric car. So it do around 450km depending on conditions.
 
-There are some more [stats](https://evcompare.io/cars/hyundai/hyundai-ioniq-electric-28-kwh/) you can check if you are interested.
+There are some more [stats](https://evcompare.io/cars/hyundai/hyundai-kona-electric-64-kwh/?units=metric) you can check if you are interested.
 
 ### Charging - Types
 
@@ -23,7 +23,7 @@ To charge the car you have 3 options:
 
 This is the option you will probably use the most. The connector is called **CCS** and the cable is attached to the charging station.
 
-It takes 40-60 minutes. It only charges to 94%. The charging speed **changes** throughout the session. The max _paper_ speed is 69 kwh but it only can achieve anything close to that sub 80% then it slows down. It also depends on the temperature outside and of the battery. There is no simple way for you to influence the speed, the car will choose as high as it and the charging station can handle.
+It takes 40-60 minutes. It only charges to 94%. The charging speed **changes** throughout the session. The max _paper_ speed is 77 kwh, it only can achieve anything that sub 80% then it slows down. It also depends on the temperature outside and of the battery. There is no simple way for you to influence the speed, the car will choose as high as it and the charging station can handle.
 
 The most common type of fast chargers are 50kwh ones. The faster ones will get the job done a bit faster, but then you are limited by the speed of the car as described above.
 
@@ -34,19 +34,17 @@ _Note: Tesla chargers have the right connector (CCS) and they are currently runn
 
 #### Type 2
 
-This is a shopping-mall option:) It is too slow to use during a longer trip, but many shopping malls or towns have public free charging of this type. The charger boxes are usually quite small. It takes few hours to charge the car this way.
+This is a shopping-mall option:) It is too slow to use during a longer trip, but many shopping malls or towns have public free charging of this type. The charger boxes are usually quite small. It takes few hours to charge the car this way. Also it is a good trick to get very good parking slot.
 
-The cable for this is in trunk bellow the cover. It is the yellow cable.
+The cable for this is in trunk bellow the cover. It is the red cable.
 
-![Hyundai IONIQ](images/type2.jpg)
+![Hyundai IONIQ](images/cables.jpg)
 
 #### Regular power outlet
 
-The most convenient option if you have the car for multiple days and have access to outdoors outlet. The cable is in the trunk. It is blue one inside a box.
+The most convenient option if you have the car for multiple days and have access to outdoors outlet. The cable is in the trunk in the same place type 2 cable is. It is blue one inside a box.
 
-It takes quite a lot of time though (6-10 hours) so it is only really a viable option overnight or as an emergency.
-
-![Hyundai IONIQ](images/v3.jpg)
+It takes quite a lot of time though (24 hours) so it is only really a viable option overnight or as an emergency.
 
 ### Charging - Apps
 
