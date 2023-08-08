@@ -1,4 +1,4 @@
-## Hyundai IONIQ Electric
+## Hyundai Kona Electric
 
 How cool is it, that you decided to share electric car via [GoMore](https://gomore.se/hyrbil/520843) ?! :)
 
