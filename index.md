@@ -2,7 +2,7 @@
 
 How cool is it, that you decided to share electric car via [snappcar](https://www.snappcar.se/hyra-bil/bil/hyundai-ioniq-electric/f11b78ca-48e8-4b32-96bf-efb04dc63633) ?! :)
 
-![Hyundai IONIQ](images/car.png)
+![Hyundai IONIQ](images/car.jpg)
 
 
 ### Car info
@@ -15,7 +15,7 @@ There are some more [stats](https://evcompare.io/cars/hyundai/hyundai-ioniq-elec
 
 ### Charging - Types
 
-In most cases I will try to borrow the car with close to full batery. If you would return the car bellow 70% of charge please let me know in advance. In general anything above 40-50% is fine as I can easily charge it at home or close by, but I stil like to know so I can plan.
+In most cases I will try to borrow the car with close to full batery. If you would return the car bellow 70% of charge please let me know in advance.
 
 To charge the car you have 3 options:
 
@@ -23,7 +23,7 @@ To charge the car you have 3 options:
 
 This is the option you will probably use the most. The connector is called **CCS** and the cable is attached to the charging station.
 
-It takes 20-40 minutes. It only charges to 94%. The charging speed **changes** throughout the session. The max _paper_ speed is 69 kwh but it only can achieve anything close to that sub 80% then it slows down. It also depends on the temperature outside and of the battery. There is no simple way for you to influence the speed, the car will choose as high as it and the charging station can handle.
+It takes 40-60 minutes. It only charges to 94%. The charging speed **changes** throughout the session. The max _paper_ speed is 69 kwh but it only can achieve anything close to that sub 80% then it slows down. It also depends on the temperature outside and of the battery. There is no simple way for you to influence the speed, the car will choose as high as it and the charging station can handle.
 
 The most common type of fast chargers are 50kwh ones. The faster ones will get the job done a bit faster, but then you are limited by the speed of the car as described above.
 
