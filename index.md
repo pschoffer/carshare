@@ -11,7 +11,7 @@ Fully electric great car. Meaning it is great fun to drive and you can save a lo
 
 It has quite big baterry of 64kwh also it is quite efficient electric car. So it do around 450km depending on conditions.
 
-There are some more [stats](https://evcompare.io/cars/hyundai/hyundai-kona-electric-64-kwh/?units=metric) you can check if you are interested.
+There are some more [stats](https://greencarscompare.com/cars/hyundai-kona-electric-long-range-2018/) you can check if you are interested.
 
 ### Charging - Types
 
